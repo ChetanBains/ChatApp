@@ -77,7 +77,7 @@ public class Server implements ActionListener{
         p1.add(l7);
 
 
-        JLabel l3 = new JLabel("User1");
+        JLabel l3 = new JLabel("Chetanjeev");
         l3.setFont(new Font("SAN_SERIF", Font.BOLD, 18));
         l3.setForeground(Color.WHITE);
         l3.setBounds(110, 16, 150, 18);
